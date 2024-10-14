@@ -62,4 +62,3 @@ $car2Details = $car2->getCar();
 print_r($car1Details); 
 print_r($car2Details); 
 ?>
-
